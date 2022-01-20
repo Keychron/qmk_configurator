@@ -1,0 +1,28 @@
+{
+  "keyboard": "ktec/staryu",
+  "keymap": "default",
+  "commit": "78ccd9c201199444bc06161b05ee8d7ba9c31613",
+  "layout": "LAYOUT",
+  "layers": [
+    [
+                 "KC_UP",   "TO(1)",
+      "KC_LEFT", "KC_DOWN", "KC_RGHT"
+    ],
+    [
+                 "KC_PGUP", "TO(2)",
+      "KC_HOME", "KC_PGDN", "KC_END"
+    ],
+    [
+                 "KC_MSEL", "TO(3)",
+      "KC_MPRV", "KC_MPLY", "KC_MNXT"
+    ],
+    [
+                 "KC_MS_U", "TO(4)",
+      "KC_MS_L", "KC_MS_D", "KC_MS_R"
+    ],
+    [
+                 "KC_NO",   "TO(0)",
+      "RGB_TOG", "BL_TOGG", "BL_STEP"
+    ]
+  ]
+}

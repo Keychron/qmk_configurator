@@ -1,0 +1,18 @@
+{
+  "keyboard": "40percentclub/nein",
+  "keymap": "default",
+  "commit": "99b35940bc4166eae3853c9e2fa94bd2be72742e",
+  "layout": "LAYOUT_ortho_3x3",
+  "layers": [
+    [
+      "KC_MUTE", "KC_HOME", "KC_MPLY",
+      "MO(1)",   "KC_UP",   "KC_END",
+      "KC_LEFT", "KC_DOWN", "KC_RGHT"
+    ],
+    [
+      "RESET",   "_______", "KC_STOP",
+      "_______", "_______", "RGB_MOD",
+      "KC_MPRV", "_______", "KC_MNXT"
+    ]
+  ]
+}

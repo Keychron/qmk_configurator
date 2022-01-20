@@ -1,0 +1,12 @@
+{
+  "keyboard": "handwired/6key",
+  "keymap": "default",
+  "commit": "0bde920817ef458f2ad61a66ce76a2535bbc261b",
+  "layout": "LAYOUT",
+  "layers": [
+    [
+      "LCTL(KC_Z)", "LCTL(KC_Y)", "KC_A",
+      "KC_C",       "KC_D",       "KC_S"
+    ]
+  ]
+}
